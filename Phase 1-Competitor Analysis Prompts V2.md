@@ -19,7 +19,7 @@ Stage 1: Competitor Profile & Business Fundamentals
 
 **[PROMPT START]**
 
-Act as a meticulous **Researcher** tasked with information gathering. Create a foundational profile of **Bandcamp**. Focus on information and developments from the last 2-3 years where applicable. Search thoroughly for each required point, prioritizing official company sources (website, press releases), reputable financial databases (e.g., Crunchbase, Pitchbook), and major news outlets. If information is definitively unavailable after searching these primary source types, explicitly state that for the specific point. Report only the factual findings based on your research. Do not include analysis or interpretation in this output.
+Act as a meticulous **Researcher** tasked with information gathering. Create a foundational profile of **https://subvert.fm/**. Focus on information and developments from the last 2-3 years where applicable. Search thoroughly for each required point, prioritizing official company sources (website, press releases), reputable financial databases (e.g., Crunchbase, Pitchbook), and major news outlets. If information is definitively unavailable after searching these primary source types, explicitly state that for the specific point. Report only the factual findings based on your research. Do not include analysis or interpretation in this output.
 
 #### Required Information and Structure:
 
@@ -64,7 +64,7 @@ Act as a **senior Competitive Intelligence Analyst** tasked with summarizing key
 
 [PASTE VERIFIED FACTUAL FINDINGS FROM THE UPDATED STAGE 1 RESEARCH FINDINGS OUTPUT HERE - **Lists for CEO/Founder background, Key Functional Leadership backgrounds, and Social Media presence/followers**]
 
-Based *strictly* on the verified factual points provided above for **Bandcamp**, generate concise summaries for the following:
+Based *strictly* on the verified factual points provided above for **https://subvert.fm/**, generate concise summaries for the following:
 
 **Summaries Required:**
 
@@ -108,7 +108,7 @@ Based *strictly* on the verified factual points provided above for **Bandcamp**,
 
 Act as a meticulous **Researcher** tasked with information gathering.
 
-Based on the foundational profile context provided above for **Bandcamp**, conduct a detailed analysis of their product offerings and features. Search thoroughly for each required point; if information is definitively unavailable after searching, explicitly state that for the specific point.
+Based on the foundational profile context provided above for **https://subvert.fm/**, conduct a detailed analysis of their product offerings and features. Search thoroughly for each required point; if information is definitively unavailable after searching, explicitly state that for the specific point.
 
 Required Information and Structure:
 
@@ -178,7 +178,7 @@ Act as a** senior Competitive Intelligence Analyst **tasked with analyzing produ
 
 **<span style="text-decoration:underline;">Requires: Core mission or tagline, Brief product/service description, Target demographics]</span>**
 
-Based *strictly* on the verified product, feature, and technology context provided above for **Bandcamp**, perform the following analyses:
+Based *strictly* on the verified product, feature, and technology context provided above for **https://subvert.fm/**, perform the following analyses:
 
 **Analysis Required:**
 
@@ -234,7 +234,7 @@ Act as a meticulous Researcher tasked with gathering market position and strateg
 
 **<span style="text-decoration:underline;">Requires: Core Mission, Target Demographics (from Stage 1 summary); Key Innovative/Differentiating Features, Overall summary of Features for Users/Fans and Artists, Pricing Model summary / Commission Structures (from Stage 2 summary/findings)]</span>**
 
-Building on the previous analysis context provided above for **Bandcamp**, gather information on **Bandcamp**'s market position and competitive strategy. Search thoroughly for each required point; if information is definitively unavailable after searching, explicitly state that for the specific point.
+Building on the previous analysis context provided above for **https://subvert.fm/**, gather information on **https://subvert.fm/**'s market position and competitive strategy. Search thoroughly for each required point; if information is definitively unavailable after searching, explicitly state that for the specific point.
 
 Required Information and Structure:
 
@@ -290,7 +290,7 @@ Act as a senior Competitive Intelligence Analyst tasked with analyzing market po
 
 **<span style="text-decoration:underline;">Requires: Core Mission, Target Demographics, Key Innovative/Differentiating Features, Overall Feature Summary, Pricing/Commission Summary, and optionally Stage 1/2 Analysis summaries]</span>**
 
-Based *strictly* on the verified market context provided above for **Bandcamp**, perform the following analyses:
+Based *strictly* on the verified market context provided above for **https://subvert.fm/**, perform the following analyses:
 
 **Analysis Required:**
 
@@ -306,7 +306,7 @@ Based *strictly* on the verified market context provided above for **Bandcamp**,
     * **Assess Compliance Approach: **Based on the reported findings about their stated approach to music licensing, assess whether it seems standard, robust, innovative, or potentially risky within the industry context.
 5. **Future Outlook Analysis:**
     * **Infer Potential Pivots or Expansions: **Based only on the listed findings related to hiring trends, acquisitions, or stated market directions, infer potential future strategic pivots or expansions. (Note: Inferences are based solely on the limited factual data provided, such as hiring/acquisition trends or stated directions, and require further validation.)
-    * **Plausible Future Scenarios:** Based on roadmap items, inferred pivots/expansions, identified vulnerabilities, and known market trends, outline 1-2 plausible future strategic scenarios for **Bandcamp** over the next 1-3 years (e.g., acquisition target, aggressive expansion into X, focus on profitability over growth). [Scenario Analysis]
+    * **Plausible Future Scenarios:** Based on roadmap items, inferred pivots/expansions, identified vulnerabilities, and known market trends, outline 1-2 plausible future strategic scenarios for **https://subvert.fm/** over the next 1-3 years (e.g., acquisition target, aggressive expansion into X, focus on profitability over growth). [Scenario Analysis]
     * **Identify Potential Vulnerabilities: **Based only on the listed findings related to potential vulnerabilities (from across all stages' verified data), identify the most significant potential vulnerabilities in their business model or strategy. (Note: Identification is based solely on synthesizing the limited factual data provided across stages and requires strategic assessment to confirm significance.)
 6. **Overall Strategic Assessment:**
     * **Synthesize the above points: **Provide a brief overall assessment of their market strategy's coherence and potential effectiveness based *only* on the verified Stage 3 findings and prior context. Are positioning, product, marketing, and growth efforts aligned?
@@ -341,7 +341,7 @@ Act as a senior Competitive Intelligence Analyst.
 
 **<span style="text-decoration:underline;">Requires Summaries of: Internal Strengths, Internal Weaknesses, External Opportunities, External Threats (derived from verified findings and analysis across Stages 1-3)]</span>**
 
-Based *strictly* on the verified analysis context provided above for **Bandcamp**, provide a comprehensive SWOT analysis and strategic recommendations.
+Based *strictly* on the verified analysis context provided above for **https://subvert.fm/**, provide a comprehensive SWOT analysis and strategic recommendations.
 
 Required Information and Structure:
 
@@ -359,10 +359,10 @@ D. Stage 4: SWOT Analysis & Strategic Recommendations
     * Analyze threats posing the greatest risk.
 * **Strategic Recommendations:** (Suggest potential recommendations derived logically from the SWOT analysis. Prioritize based on impact/feasibility. Note: These recommendations are derived logically solely from the limited competitive data summarized in the SWOT context and require significant strategic validation based on broader market knowledge and internal company capabilities/context)
     * For each key Weakness identified in the SWOT, suggest one potential differentiating strategy for our company.
-    * For each key Opportunity identified in the SWOT, suggest one way our company could potentially leverage it against **Bandcamp**.
+    * For each key Opportunity identified in the SWOT, suggest one way our company could potentially leverage it against **https://subvert.fm/**.
     * For each key Strength of the competitor identified in the SWOT, suggest one potential defensive measure for our company.
-    * Identify the most likely and impactful competitive responses **Bandcamp** might make to our company's potential moves (based on their strategy, strengths, weaknesses derived from the context). (Note: This analysis is inherently speculative, based only on the competitor's inferred strategy, strengths, and weaknesses derived from the limited provided context.) [Analysis]
-    * **Potential 'White Space' Opportunities:** Based on the competitor's weaknesses, target market limitations, and identified market opportunities, suggest potential strategic 'white space' areas where our company could establish a unique advantage uncontested by **Bandcamp**. [Analysis]
+    * Identify the most likely and impactful competitive responses **https://subvert.fm/** might make to our company's potential moves (based on their strategy, strengths, weaknesses derived from the context). (Note: This analysis is inherently speculative, based only on the competitor's inferred strategy, strengths, and weaknesses derived from the limited provided context.) [Analysis]
+    * **Potential 'White Space' Opportunities:** Based on the competitor's weaknesses, target market limitations, and identified market opportunities, suggest potential strategic 'white space' areas where our company could establish a unique advantage uncontested by **https://subvert.fm/**. [Analysis]
     * Identify monitoring priorities moving forward (link to Stage 5).
 * **Information Gaps:**
     * [List points where lack of information impacts the SWOT analysis or recommendations]
@@ -399,14 +399,14 @@ D. Stage 4: SWOT Analysis & Strategic Recommendations
 
 **Act as a Researcher focused on identifying artist connections.**
 
-**Research Task:** Determine if the platform **Bandcamp** features are significantly used by, or partners with established, famous, or commercially successful artists/bands whose presence likely drives user adoption.
+**Research Task:** Determine if the platform **https://subvert.fm/** features are significantly used by, or partners with established, famous, or commercially successful artists/bands whose presence likely drives user adoption.
 
 **Required Output:**
 
-1. **List Specific Examples:** Identify and list the names of any established, famous, or commercially successful artists/bands found to be using or partnering with **Bandcamp**.
+1. **List Specific Examples:** Identify and list the names of any established, famous, or commercially successful artists/bands found to be using or partnering with **https://subvert.fm/**.
 2. **Describe Usage/Partnership:** Briefly explain *how* these artists reportedly use the platform (e.g., selling music/merch, offering exclusive content, promotion, direct-to-fan features) or the nature of any formal partnership mentioned.
 3. **Explain Significance for Adoption:** For each artist listed, briefly explain why their presence is notable and could potentially drive fan adoption of the platform (e.g., indication of large existing fanbase, specific genre leadership, critical acclaim, mainstream recognition).
 4. **Provide Sources:** Include the source URL(s) confirming each artist connection, their usage/partnership, and supporting the assessment of their significance. Prioritize official company communications (website, press releases, case studies, blog posts) and reputable music/tech news articles.
-5. **State if Not Found:** If, after searching primary sources, no concrete examples of established/famous artists prominently using or partnering with **Bandcamp** (who would likely drive adoption) are found, explicitly state: "No specific examples of established/famous artists likely to drive adoption were found prominently using or partnering with **Bandcamp** in official sources or major news outlets."
+5. **State if Not Found:** If, after searching primary sources, no concrete examples of established/famous artists prominently using or partnering with **https://subvert.fm/** (who would likely drive adoption) are found, explicitly state: "No specific examples of established/famous artists likely to drive adoption were found prominently using or partnering with **https://subvert.fm/** in official sources or major news outlets."
 
 **Focus:** Concentrate solely on finding evidence of well-known artists associated with the platform whose stature suggests they could be a significant factor in attracting users. Do not research other business fundamentals unless directly related to an artist partnership or their significance.
