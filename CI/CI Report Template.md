@@ -14,31 +14,50 @@ Note: Throughout this template, (Source Reference) serves as a placeholder instr
 **Financial and Investment Details:**
 
 * **Funding Rounds:**
-    * Current funding rounds (seed, Series A, etc.): [List] (Source Reference)
-* **Major investors (VC firms, angel investors):** [List] (Source Reference)
+    * Current funding rounds (seed, Series A, etc.):
+        * [List each round] (Source Reference)
+* **Major investors (VC firms, angel investors):**
+    * [List investors] (Source Reference)
 * **Total funding to date:** [Amount or 'Total funding not publicly available'] (Source Reference)
 * **Revenue estimates:** [Amount/Range or 'Revenue estimates not publicly available'] (Source Reference)
 
 **Team Composition and Leadership:**
 
-* **Founders and/or CEO background:** [Key points, including music industry experience/ventures] (Source Reference)
-* **Key Functional Leadership (Product, Eng, Marketing, Sales, etc.):** [Leaders and relevant industry/domain experience] (Source Reference)
-* **Music Industry Credibility & Connections:** [Specific connections, roles, achievements for founders/key team] (Source Reference)
-* **Key executives or marquee names:** [List C-suite/recognized execs] (Source Reference)
+* **Founders and/or CEO background:**
+    * [Key point 1, including music industry experience/ventures] (Source Reference)
+    * [Key point 2] (Source Reference)
+    * ...
+* **Key Functional Leadership (Product, Eng, Marketing, Sales, etc.):**
+    * [Leader Name, Role, relevant industry/domain experience] (Source Reference)
+    * [Leader Name, Role, relevant industry/domain experience] (Source Reference)
+    * ...
+* **Music Industry Credibility & Connections:**
+    * [Specific connection/role/achievement 1 for founders/key team] (Source Reference)
+    * [Specific connection/role/achievement 2] (Source Reference)
+    * ...
+* **Key executives or marquee names:**
+    * [List C-suite/recognized execs] (Source Reference)
+    * ...
 * **Approximate team size:** [Number or 'Approximate team size unknown'] (Source Reference)
 
 **Fan/Artist Base & Platform Use:**
 
 * **Target fan/user demographics:** [Describe primary target users/fans] (Source Reference)
 * **Target artist/user demographics:** [Describe primary target users/artists, noting emerging vs. established focus] (Source Reference)
-* **Notable Artists on Platform / Partnerships:** [List specific examples of well-known/established artists, how they use the platform (sales, exclusives, promo, etc.)] (Source Reference)
+* **Notable Artists on Platform / Partnerships:**
+    * [Specific example 1: Artist Name, how they use platform] (Source Reference)
+    * [Specific example 2: Artist Name, how they use platform] (Source Reference)
+    * ...
 * **Approximate user count or site traffic:** [Estimates or 'User count/site traffic data not publicly available'] (Source Reference)
 
 **Key Business Metrics:**
 
 * **Engagement rates (e.g., monthly active users):** [Rates or 'Engagement rate data not publicly available'] (Source Reference)
 * **Revenue sources and breakdown:** [Description or 'Revenue source/breakdown information not publicly available'] (Source Reference)
-* **Social media presence and following:** [Platforms and follower counts, note artist interactions] (Source Reference)
+* **Social media presence and following:**
+    * [Platform: Follower count, note artist interactions] (Source Reference)
+    * [Platform: Follower count, note artist interactions] (Source Reference)
+    * ...
 
 **Information Gaps:**
 
@@ -63,7 +82,10 @@ Note: Throughout this template, (Source Reference) serves as a placeholder instr
 * Community features and forums: [Details] (Source Reference)
 * Mobile app functionality: [Summary] (Source Reference)
 * User interface and experience aspects: [Key aspects mentioned] (Source Reference)
-* User complaints or requested improvements (Top 3-5, last 12 mos): [List] (Source Reference)
+* **User complaints or requested improvements (Top 3-5, last 12 mos):**
+    * [Complaint 1] (Source Reference)
+    * [Complaint 2] (Source Reference)
+    * ...
 
 ### Features for Artists:
 
@@ -76,15 +98,27 @@ Note: Throughout this template, (Source Reference) serves as a placeholder instr
 * Event organization capabilities: [Description] (Source Reference)
 * Payment processing and payout systems: [Details] (Source Reference)
 * Rights management features: [Description] (Source Reference)
-* Artist complaints or requested improvements (Top 3-5, last 12 mos): [List] (Source Reference)
-* Features highlighted in testimonials/case studies: [List] (Source Reference)
+* **Artist complaints or requested improvements (Top 3-5, last 12 mos):**
+    * [Complaint 1] (Source Reference)
+    * [Complaint 2] (Source Reference)
+    * ...
+* **Features highlighted in testimonials/case studies:**
+    * [Feature 1] (Source Reference)
+    * [Feature 2] (Source Reference)
+    * ...
 
 ### Technology Infrastructure:
 
 * Platform architecture (if known): [Description] (Source Reference)
-* Technology aspects highlighted as Differentiators/Limitations: [List] (Source Reference)
+* **Technology aspects highlighted as Differentiators/Limitations:**
+    * [Aspect 1] (Source Reference)
+    * [Aspect 2] (Source Reference)
+    * ...
 * Mobile capabilities and app ratings: [Availability and ratings] (Source Reference)
-* API offerings and third-party integrations: [List] (Source Reference)
+* **API offerings and third-party integrations:**
+    * [Integration 1] (Source Reference)
+    * [Integration 2] (Source Reference)
+    * ...
 * Performance and reliability factors: [Report known factors] (Source Reference)
 
 ### Pricing Model:
@@ -112,7 +146,10 @@ Note: Throughout this template, (Source Reference) serves as a placeholder instr
 
 ### Innovative/Differentiating Features:
 
-* Features described as Innovative/Differentiating: [List features] (Source Reference)
+* **Features described as Innovative/Differentiating:**
+    * [Feature 1] (Source Reference)
+    * [Feature 2] (Source Reference)
+    * ...
 
 ### Information Gaps: \
 
@@ -134,30 +171,53 @@ Note: Throughout this template, (Source Reference) serves as a placeholder instr
 
 ### Market Positioning:
 
-* Stated market differentiators: [Identify company's stated differentiators] (Source Reference)
-* Stated Positioning vs. Key Rivals: [How they differentiate from specific competitors] (Source Reference)
-* Primary value propositions: [To users and creators] (Source Reference)
+* **Stated market differentiators:**
+    * [Differentiator 1] (Source Reference)
+    * [Differentiator 2] (Source Reference)
+    * ...
+* **Stated Positioning vs. Key Rivals:** [How they differentiate from specific competitors] (Source Reference)
+* **Primary value propositions:**
+    * [To users] (Source Reference)
+    * [To creators] (Source Reference)
 * Brand identity and public perception findings: [Stated identity vs. public view] (Source Reference)
 * Target market segments: [Define primary segments] (Source Reference)
 
 ### Adoption & User Base:
 
 * *(Note: Detailed artist info moved to Stage 1)*
-* Notable Labels/Industry Partners: [List labels, publishers, distributors, etc. with reasons for use] (Source Reference)
+* **Notable Labels/Industry Partners:**
+    * [Partner 1, reason for use] (Source Reference)
+    * [Partner 2, reason for use] (Source Reference)
+    * ...
 * Overall Artist/Label Profile Data: [Data/summaries indicating typical user profile] (Source Reference)
 * Case Studies & Testimonials: [Summarize or link to official examples] (Source Reference)
 
 ### Competitive Landscape:
 
-* Direct and indirect competitors: [List main competitors] (Source Reference)
+* **Direct and indirect competitors:**
+    * [Competitor 1] (Source Reference)
+    * [Competitor 2] (Source Reference)
+    * ...
 * Relative market share: [Estimates or 'Market share data not publicly available'] (Source Reference)
 
 ### Marketing and Growth Strategy:
 
-* Key marketing campaigns or initiatives: [Describe recent campaigns] (Source Reference)
-* Core Marketing Messaging & Angles: [List primary messages, themes, pain points/benefits mentioned] (Source Reference)
-* Strategic partnerships and alliances: [List significant formal deals] (Source Reference)
-* Recent product expansions or pivots: [Detail significant changes] (Source Reference)
+* **Key marketing campaigns or initiatives:**
+    * [Campaign 1] (Source Reference)
+    * [Campaign 2] (Source Reference)
+    * ...
+* **Core Marketing Messaging & Angles:**
+    * [Message/Angle 1] (Source Reference)
+    * [Message/Angle 2] (Source Reference)
+    * ...
+* **Strategic partnerships and alliances:**
+    * [Partnership 1] (Source Reference)
+    * [Partnership 2] (Source Reference)
+    * ...
+* **Recent product expansions or pivots:**
+    * [Change 1] (Source Reference)
+    * [Change 2] (Source Reference)
+    * ...
 * International expansion efforts: [Describe efforts and target regions] (Source Reference)
 * Growth trajectory relative to the industry: [Report findings compared to industry] (Source Reference)
 
@@ -169,9 +229,18 @@ Note: Throughout this template, (Source Reference) serves as a placeholder instr
 
 ### Future Outlook:
 
-* Announced roadmap items: [List publicly announced plans] (Source Reference)
-* Data related to potential pivots or expansions: [Findings on hiring, M&A, stated directions] (Source Reference)
-* Data about potential vulnerabilities: [Findings from all stages indicating risks] (Source Reference)
+* **Announced roadmap items:**
+    * [Item 1] (Source Reference)
+    * [Item 2] (Source Reference)
+    * ...
+* **Data related to potential pivots or expansions:**
+    * [Finding 1 from hiring, M&A, stated directions] (Source Reference)
+    * [Finding 2] (Source Reference)
+    * ...
+* **Data about potential vulnerabilities:**
+    * [Finding 1 indicating risks from all stages] (Source Reference)
+    * [Finding 2] (Source Reference)
+    * ...
 
 ### Information Gaps:
 
@@ -190,10 +259,18 @@ Note: Throughout this template, (Source Reference) serves as a placeholder instr
 
 ### **SWOT Analysis:** (Derived strictly from verified context)
 
-* Strengths: [List internal advantages] (Source Reference)
-* Weaknesses: [List internal limitations] (Source Reference)
-* Opportunities: [List external factors - market trends, competitor weaknesses] (Source Reference)
-* Threats: [List external factors - market trends, competitor strengths, regulations] (Source Reference)
+* **Strengths:**
+    * [List internal advantages] (Source Reference)
+    * ...
+* **Weaknesses:**
+    * [List internal limitations] (Source Reference)
+    * ...
+* **Opportunities:**
+    * [List external factors - market trends, competitor weaknesses] (Source Reference)
+    * ...
+* **Threats:**
+    * [List external factors - market trends, competitor strengths, regulations] (Source Reference)
+    * ...
 
 ### **Strategic Implications:** (Placeholder for post-verification analysis)
 
@@ -216,5 +293,5 @@ Note: Throughout this template, (Source Reference) serves as a placeholder instr
 * [List points where lack of information impacts SWOT/Recommendations]
 
 **SOURCES:**
-* (Source Reference) [Full URL if available]
+* [Source Name](Full URL if available)
 * ... (List all unique sources cited inline)

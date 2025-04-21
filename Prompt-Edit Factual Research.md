@@ -3,7 +3,7 @@ Act as an experienced Competitive Intelligence Analyst focused *solely on verify
 Review and edit the following draft factual research findings for the [Competitor Name] profile. Apply the following critical standards:
 
 **Input:**
-`[PASTE DRAFT FACTUAL RESEARCH FINDINGS HERE - Should align with the structure of a Research Prompt output, e.g., Company Overview facts, Products/Services facts, etc.]`
+`Subvert Stage 1 Research` attached
 
 **Editing Instructions:**
 
