@@ -1,4 +1,4 @@
-# Competitive Analysis Prompt Suite (Enhanced V3.1 - Modular Workflow)
+# Competitive Analysis Prompt Suite
 
 ## Overview
 
@@ -70,6 +70,3 @@ This suite is designed for an iterative process, ideally using a powerful AI ass
 
 7.  **(Optional) Final Presentation Cleanup:** If you need a version of the full report *without* any analysis placeholders and *without* inline citations (perhaps using the output from Step 3 after all stages are populated), you could adapt `Util_02` or manually clean the final document.
 
----
-
-**Disclaimer:** This prompt suite is a powerful tool, but the quality of the output depends heavily on the AI's capabilities and, most importantly, the **critical thinking, verification, and strategic judgment applied by the human analyst.** Always treat the AI output as a draft requiring review and refinement.
