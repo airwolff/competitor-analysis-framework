@@ -6,7 +6,7 @@ Your task is to take a **previously populated draft** of the CI report (which in
 
 **Input:**
 
-Please process the attached file: `Competitor Name Stage 1 Research Formatted`
+Please process the attached file with:
 
 **Rigorous Step-by-Step Finalization Process:**
 
@@ -40,7 +40,3 @@ Please process the attached file: `Competitor Name Stage 1 Research Formatted`
 Provide the finalized **CI Report**, processed according to the rigorous, step-by-step finalization process. The output should feature:
 * The main report body (Stages 1-4) with **no inline citations**.
 * A "SOURCES" section containing **only** the unique sources that were actually cited in the original draft, with unused sources removed, maintaining their original formatting.
-
----
-*(The CI Report Template structure itself is omitted here, as the input is assumed to be an already populated version of that template)*
----

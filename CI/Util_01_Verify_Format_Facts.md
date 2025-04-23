@@ -6,7 +6,7 @@ Your task is to take the provided raw research findings, rigorously process them
 
 **Input:**
 
-Please process the attached file: `Competitor Name Stage 1 Research`
+Please process the attached file:
 
 **Editing & Structuring Instructions:**
 
@@ -45,7 +45,7 @@ Provide the completed **CI Report Template** below, populated *only* with the re
 
 ***Note:** This template is populated with verified factual data for internal review. Full analysis and strategic recommendations will be added in a subsequent step.*
 
-## **Competitor Name:** [Specify Name]
+## [Specify Name]
 
 ## Stage 1: Competitor Profile & Business Fundamentals
 
