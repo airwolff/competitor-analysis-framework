@@ -70,13 +70,6 @@ This suite is designed for an iterative process, ideally using a powerful AI ass
 
 7.  **(Optional) Final Presentation Cleanup:** If you need a version of the full report *without* any analysis placeholders and *without* inline citations (perhaps using the output from Step 3 after all stages are populated), you could adapt `Util_02` or manually clean the final document.
 
-## Why This Matters (e.g., for YC)
-
-* **Demonstrates Rigor:** Shows a structured, methodical approach to understanding the market.
-* **Highlights Analytical Skills:** The multi-stage analysis showcases the ability to synthesize information and derive insights.
-* **Supports Strategy:** Provides a verifiable foundation for strategic decision-making (positioning, differentiation, feature roadmap).
-* **Reduces Bias:** The emphasis on objective facts and verification helps mitigate confirmation bias.
-
 ---
 
 **Disclaimer:** This prompt suite is a powerful tool, but the quality of the output depends heavily on the AI's capabilities and, most importantly, the **critical thinking, verification, and strategic judgment applied by the human analyst.** Always treat the AI output as a draft requiring review and refinement.
