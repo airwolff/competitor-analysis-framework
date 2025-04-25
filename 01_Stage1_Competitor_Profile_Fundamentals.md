@@ -68,7 +68,7 @@
 <<< --- PASTE THE CLEANED FACTUAL OUTPUT (FROM UTIL_02) FOR STAGE 1 HERE --- >>>
 *(This input should be the structured report containing verified facts but WITHOUT inline citations)*
 
-**Analysis Task:** Based **strictly** on the verified factual points provided in the Input Data above for `[Competitor Name]`, perform the following:
+**Analysis Task:** Based **strictly** on the verified factual points provided in the Input Data above, perform the following:
 
 **Part 1: Generate Concise Summaries & Assessments (Internal Process)**
 * *Internally perform reasoning and self-critique for each point below, but DO NOT include the reasoning/critique steps in the final summary text.*
