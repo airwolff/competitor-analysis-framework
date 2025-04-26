@@ -14,6 +14,8 @@
 **Research Guidance:**
 * Search thoroughly for each required point, focusing on the company's official website (product pages, feature lists, pricing, support docs, blog, case studies), app store listings (iOS/Android), user review sites (G2, Capterra, Trustpilot, relevant forums), and reputable tech/music industry news articles reviewing the platform.
 * **Search Strategy Hint:** Use queries like "**Competitor Name** features for artists", "**Competitor Name** pricing model", "**Competitor Name** user complaints app store", "**Competitor Name** API documentation", "**Competitor Name** technology stack BuiltWith". Look for product tours or demo videos.
+* **Search Strategy Hint (Onboarding/Support):** Look for 'Getting Started' guides, 'Help Center', 'Support', 'Contact Us' sections on the competitor's website. Search for terms like "**Competitor Name** artist setup process", "**Competitor Name** help desk review", "**Competitor Name** customer support options".
+* **Search Strategy Hint (Tech Infra):** Use tools like BuiltWith or Wappalyzer if possible. Search for "**Competitor Name** technology stack", "**Competitor Name** API documentation", "**Competitor Name** platform performance review", "**Competitor Name** engineering blog".
 * If information is definitively unavailable after searching, explicitly state `[Information Not Found]` for that specific point. Ensure all findings requiring a source URL have one appended.
 
 **Required Information and Structure:**
@@ -78,7 +80,7 @@
 
 ---
 
-## Stage 2 Analysis Prompt
+## Stage 2 Analysis Prompt (v4)
 
 **[PROMPT START]**
 
@@ -92,7 +94,7 @@
 <<< --- PASTE THE VERIFIED "CONTEXT FOR STAGE 2" BLOCK (FROM STAGE 1 ANALYSIS) USED FOR THE RESEARCH ABOVE HERE --- >>>
 *(This provides necessary context like mission, demographics, financial health summary)*
 
-**Analysis Task:** Based **strictly** on the verified product, feature, technology context (from Input Data) and Stage 1 context provided above for `[Competitor Name]`, perform the following:
+**Analysis Task:** Based **strictly** on the verified product, feature, technology context (from Input Data) and Stage 1 context provided above, perform the following:
 
 **Part 1: Generate Concise Analyses (Internal Process)**
 * *Internally perform reasoning and self-critique for each point below, but DO NOT include the reasoning/critique steps in the final analysis text.*

@@ -1,72 +1,34 @@
-# Competitive Analysis Prompt Suite
-
-## Overview
-
-This repository contains a suite of structured prompts designed to facilitate a rigorous, multi-stage competitive intelligence (CI) analysis process. The methodology breaks down complex competitor research into manageable stages, incorporating verification steps and preparing data for strategic analysis.
-
-This systematic approach is particularly valuable for startups, ensuring a deep understanding of the competitive landscape. For contexts like applying to Y Combinator, demonstrating this level of analytical rigor and market awareness can be a significant asset.
+# README: Stakeholder Summary Prompt (`Util_05_Extract_Key_Takeaways.md`)
 
 ## Purpose
 
-The primary goal is to move beyond superficial competitor scans and generate a detailed, verifiable, and strategically relevant profile of a target competitor. The process emphasizes:
+This utility prompt (`Util_05_Extract_Key_Takeaways.md`) serves a specific, crucial function within the larger Competitive Analysis Prompt Suite: **generating a concise executive summary tailored for stakeholders.**
 
-1.  **Structured Research:** Gathering specific data points across key business areas.
-2.  **Verification:** Explicitly linking facts to sources and providing steps for data validation.
-3.  **Modular Analysis:** Analyzing findings stage-by-stage to build a comprehensive understanding.
-4.  **Strategic Synthesis:** Culminating in a SWOT analysis and actionable strategic recommendations.
+While the main workflow produces a detailed, verifiable report suitable for deep analysis, stakeholders (like founders, investors, board members, or team leads) often require a much shorter, high-impact overview focusing only on the most critical findings and strategic implications.
 
-## File Structure
+This prompt takes the final, comprehensive CI report (after all research and analysis stages are complete) and extracts the absolute essential takeaways, presenting them in a standalone summary document.
 
-The suite is organized into distinct stages and utility processing steps:
+## Workflow Placement
 
-* **`00_Context_Summarization_Guidance.md`**: (Optional) Guidance for manually summarizing existing report sections.
-* **`01_Stage1_Competitor_Profile_Fundamentals.md`**: Focuses on basic company info, financials, team, and initial user base details. Contains prompts for Research and Analysis.
-* **`02_Stage2_Product_Feature_Analysis.md`**: Dives deep into product features (for fans and artists), technology, pricing, onboarding, and support. Contains prompts for Research and Analysis.
-* **`03_Stage3_Market_Position_Strategy.md`**: Examines market positioning, adoption patterns, stated strategy, marketing, and future outlook. Contains prompts for Research and Analysis.
-* **`04_Stage4_SWOT_Recommendations.md`**: Synthesizes all previous findings into a SWOT analysis and generates strategic recommendations relative to the competitor. Contains the final Analysis prompt.
-* **`05_Stage5_Ongoing_Monitoring.md`**: Guidance (no prompt) for maintaining the analysis over time.
-* **`Addendum_Focused_Artist_Research.md`**: A specialized prompt for deep dives into influential artist adoption.
-* **`Util_01_Verify_Format_Facts.md`**: **(Processing Step)** Takes raw research output, verifies facts against sources, formats citations as inline Markdown links, and populates a structured report template with *only* verified facts.
-* **`Util_02_Cleanup_Citations_PreAnalysis.md`**: **(Processing Step)** Takes the output from `Util_01`, removes the inline citations from the body text (leaving facts clean for AI analysis), and curates the final source list.
+* **When to Use:** This prompt is designed to be run **once**, at the very **end** of the main CI workflow, after the Stage 4 Analysis has been completed and integrated into the main report document.
+* **Input:** It requires the **final, complete CI report file** (containing all facts and integrated analysis summaries from Stages 1-4) as input, typically provided as an attached file.
+* **Output:** It produces a **new, separate Markdown document** containing only the extracted key takeaways, formatted as an executive summary.
 
-## Workflow / How to Use
+## Key Benefits for Stakeholders
 
-This suite is designed for an iterative process, ideally using a powerful AI assistant capable of handling large contexts and following detailed instructions (like Claude, GPT-4, or Gemini Advanced). **Human oversight and judgment are critical at each step.**
+* **Brevity:** Delivers the most important information without requiring stakeholders to read the lengthy detailed report.
+* **Focus:** Highlights critical strengths, weaknesses, opportunities, threats, and strategic conclusions.
+* **Efficiency:** Saves valuable stakeholder time while ensuring they grasp the core competitive insights.
+* **Consistency:** Extracts conclusions directly from the final, verified analysis, ensuring alignment with the detailed report.
 
-**For Each Stage (e.g., Stage 1, then Stage 2, then Stage 3):**
+## Usage
 
-1.  **Research:**
-    * Open the relevant Stage file (e.g., `01_Stage1_...md`).
-    * Copy the **Research Prompt** section.
-    * Paste it into your AI assistant and provide the necessary input (e.g., competitor name).
-    * Run the prompt to generate the raw research findings. Save this output.
+1.  Complete the full competitive analysis workflow (Stages 1-4, including iterative use of `Util_01` and `Util_02`, and manual integration of analysis summaries).
+2.  Ensure you have the final, complete CI report document saved.
+3.  Open the `Util_05_Extract_Key_Takeaways.md` prompt file.
+4.  Copy the prompt text into your AI assistant.
+5.  **Attach the final CI report document** as input when prompted.
+6.  Run the prompt.
+7.  Review the generated "Executive Summary: [Competitor Name] Key Takeaways" document for accuracy and impact before sharing with stakeholders.
 
-2.  **Verify & Format Facts:**
-    * Open `Util_01_Verify_Format_Facts.md`.
-    * Copy the entire prompt.
-    * Paste it into your AI assistant. As input, provide the **raw research findings** generated in Step 1.
-    * Run the prompt. It will output a structured report containing verified facts with **inline clickable citations**. Save this "Verified Output".
-    * **(Human Step):** Review this Verified Output. Click some source links to spot-check validity. Ensure the facts look correct and objective. This is a crucial verification point.
-
-3.  **Cleanup Citations for Analysis:**
-    * Open `Util_02_Cleanup_Citations_PreAnalysis.md`.
-    * Copy the entire prompt.
-    * Paste it into your AI assistant. As input, provide the **Verified Output** generated in Step 2.
-    * Run the prompt. It will output the same structured report but with **inline citations removed** from the body text, leaving only clean facts and a curated source list at the end. Save this "Cleaned Factual Output".
-
-4.  **Analyze:**
-    * Go back to the Stage file used in Step 1 (e.g., `01_Stage1_...md`).
-    * Copy the **Analysis Prompt** section.
-    * Paste it into your AI assistant. As input, provide the **Cleaned Factual Output** from Step 3 *and* any required "Context Blocks" generated by the *previous* stage's analysis (the prompt specifies where to paste these).
-    * Run the prompt. It will generate analysis summaries based on the facts and a "Context Block" containing key takeaways needed for the *next* stage's research/analysis. Save this "Analysis Output".
-    * **(Human Step):** Critically review the AI's analysis. Does it make sense? Is it logically derived from the facts? Refine as needed. Verify the generated Context Block for accuracy before using it in the next stage.
-
-5.  **Repeat:** Repeat steps 1-4 for the subsequent stages (Stage 2, Stage 3).
-
-6.  **Final SWOT & Recommendations:**
-    * After completing Stage 3 analysis, use the `04_Stage4_...md` prompt, providing the final "Context Block" (SWOT inputs) generated by the Stage 3 Analysis.
-    * Run the prompt to generate the SWOT analysis and strategic recommendations.
-    * **(Human Step):** This requires significant strategic judgment. Evaluate, refine, prioritize, and augment the AI's suggestions based on your own company's context, goals, and broader market knowledge.
-
-7.  **(Optional) Final Presentation Cleanup:** If you need a version of the full report *without* any analysis placeholders and *without* inline citations (perhaps using the output from Step 3 after all stages are populated), you could adapt `Util_02` or manually clean the final document.
-
+This prompt acts as the final step in translating the detailed analytical work into a format suitable for high-level strategic discussion and decision-making.
