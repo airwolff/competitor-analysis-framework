@@ -4,17 +4,11 @@
 
 This repository contains a suite of structured prompts designed to facilitate a rigorous, multi-stage competitive intelligence (CI) analysis process. The methodology breaks down complex competitor research into manageable stages, incorporating verification steps and preparing data for strategic analysis.
 
-This systematic approach is particularly valuable for startups, ensuring a deep understanding of the competitive landscape. For contexts like applying to Y Combinator, demonstrating this level of analytical rigor and market awareness can be a significant asset.
+This systematic approach is particularly valuable for startups, ensuring a deep understanding of the competitive landscape.
 
 ## Purpose
 
 The primary goal is to move beyond superficial competitor scans and generate a detailed, verifiable, and strategically relevant profile of a target competitor. The process emphasizes:
-
-
-
-
-
-
 
 1.  **Structured Research:** Gathering specific data points across key business areas.
 2.  **Verification:** Explicitly linking facts to sources and providing steps for data validation.
@@ -78,8 +72,6 @@ This suite is designed for an iterative process, ideally using a powerful AI ass
 
 ## Why This Matters (e.g., for YC)
 
-* **Demonstrates Rigor:** Shows a structured, methodical approach to understanding the market.
-* **Highlights Analytical Skills:** The multi-stage analysis showcases the ability to synthesize information and derive insights.
 * **Supports Strategy:** Provides a verifiable foundation for strategic decision-making (positioning, differentiation, feature roadmap).
 * **Reduces Bias:** The emphasis on objective facts and verification helps mitigate confirmation bias.
 
